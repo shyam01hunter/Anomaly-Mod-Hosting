@@ -1,11 +1,6 @@
-Changelog: Version 1.3.1
-
-Added 30 Minute Timer to Force Config Sources refresh.
-
-Added Abillity to Filter out Configs Downloaded from Public Repo.
-
-Implemented Timestamp in sources tab to show when Repo was last updated.
-
-Fixed issue with public Repo Copying itself and Duplicated Configs.
-
-Updated Donation Link, Included link to donate on Ko-Fi for those who dont use BTC
+Changelog: Version 1.3.2
+Added "Unescape" function block to decode unicode escape characters. (EX: \u00fc, \x5C, etc)
+Added OCR Block. (Disabled)
+Added OCR Settings page. (Disabled)
+New .dll additions for OCR functionality.
+All OCR is DISABLED, it still needs a lot of settings, and vigorous testing phases done.
