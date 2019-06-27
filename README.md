@@ -1,3 +1,4 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I3XE8H)
 # OpenBullet-Anomaly-Mod
 
 This is the GitHub for the OpenBullet Mod i make and manage. (Formerly Paradox Mod).
