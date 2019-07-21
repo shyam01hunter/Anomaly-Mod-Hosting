@@ -1,6 +1,6 @@
-Changelog: Version 1.3.2
-Added "Unescape" function block to decode unicode escape characters. (EX: \u00fc, \x5C, etc)
-Added OCR Block. (Disabled)
-Added OCR Settings page. (Disabled)
-New .dll additions for OCR functionality.
-All OCR is DISABLED, it still needs a lot of settings, and vigorous testing phases done.
+Changelog: Version 1.3.4
+Organized the Function Block Alphabetically.
+Updated RandomString to include ?m ?m is a random Digit or Letter
+Implemeted Support for OSHECapthca
+Base Implementation of DataBase Size Warning.
+Notice: OCR is still disabled this build. Lethal isnt here for me ask if its ok for me to unlock yet.
