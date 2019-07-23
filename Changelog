@@ -1,8 +1,4 @@
-Changelog: Version 1.3.4
-Organized the Function Block Alphabetically.
-Updated RandomString to include ?m ?m is a random Digit or Letter
-Implemeted Support for OSHECapthca
-Base Implementation of DataBase Size Warning.
-Notice: OCR is still disabled this build. Lethal isnt here for me ask if its ok for me to unlock yet.
-
------Hotfixed OsherCapthca
+Changelog: Version 1.3.5
+Updated to include OPTIONS in Request block.
+Removed unneeded DLLs from Bin Folder (Discord RDC,ExtremeNet)
+Fixed Changelog URL
