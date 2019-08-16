@@ -1,2 +1,6 @@
-Changelog: Version 1.3.6
-OCR opened to everyone b/c you guys can't wait for a proper release
+Changelog: Version 1.3.7
+OCR: { Cookies added to allow grabbing correct images
+added saturation
+slight changes to methods / ordering }
+Stopped saving a file as .exe, bat and dll
+IronPython fix next update
