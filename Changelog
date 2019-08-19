@@ -1,6 +1,7 @@
-Changelog: Version 1.3.7
-OCR: { Cookies added to allow grabbing correct images
-added saturation
-slight changes to methods / ordering }
-Stopped saving a file as .exe, bat and dll
-IronPython fix next update
+Changelog: Version 1.3.8
+New tessdata language downloader in tools ( CREATE A 'tessdata' FOLDER!)
+Added keycheck "CaptchaFail"
+Added CaptchaFail fail counter in runner ( left of | in retries)
+Disabled Proxy Checker b/c it needs to check against a judge #2lazyatm
+Changed (Osher)Solve-Captcha host
+Various bug fixes
