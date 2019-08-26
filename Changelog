@@ -1,7 +1,8 @@
-Changelog: Version 1.3.8
-New tessdata language downloader in tools ( CREATE A 'tessdata' FOLDER!)
-Added keycheck "CaptchaFail"
-Added CaptchaFail fail counter in runner ( left of | in retries)
-Disabled Proxy Checker b/c it needs to check against a judge #2lazyatm
-Changed (Osher)Solve-Captcha host
-Various bug fixes
+Changelog: Version 1.3.9
+Implemented headers into OCR
+Implemented Remove Noise into Block
+Enabled Proxy Checker (God you guys are annoying)
+Changed OCR LS to be more user friendly(breaks current configs REMAKE THEM!)
+Added Transparant + Only show to block (Transparent still disabled, Onlyshow is CURRENTLY only set to Black(0,0,0), use diff box for lighter/gamma for corrections)
+Added Blockchain DNS Resolver block
+Added local captcha service (YourCaptcha) this works with XEvil, 2Captcha solvers on your local machine(others untested)
