@@ -3,7 +3,7 @@
 
 This is the GitHub for the OpenBullet Mod, Anomaly (Formerly Paradox Mod).
 
-All future updates wont be under Paradox
+All future updates will be under Anomaly
 
 This Mod includes Improvements and Additions to Vanilla OpenBullet.
 
