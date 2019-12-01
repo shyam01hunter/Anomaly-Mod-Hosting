@@ -1,5 +1,25 @@
-Changelog: Version 1.4
-HotFix: Added Request Timeouts for Proxy Scraping
--------Main Update-------
-Started adding some of Ruri's Recent Updates.
-Such as Webhook Settings, New CF Library, Database Tools, Proxy Message Box's now close themselves
+Changelog: Version 1.4.2
+
+Finally here, 1.4.2. Its been awhile but heres an update.
+ADDITIONS / REMOVALS:
+Using OCR Block will now Auto Create a TessData Folder if there isnt one.
+Clarified Usage of some blocks (Specifically functions)
+Disable Repo Button is now moved to settings, It also doesnt reset now.
+Removed Proxy Scrape section of Proxy input. This feature commonly caused issues on proxyscrapes servers. You can get free proxies from them by adding their api links.
+Function to create an OAuth Code Verifier (Function to Create Challenge coming soon)
+Changed the Condition methods to support checking without needing to Supply Wordlist
+Removed the Parse GET Query option from Request block (useless).
+Generate Bytes Function (Generates an amount of bytes based off of input. (ex: 32 will generate 32 bytes. non-digits will error)
+Added custom action support.
+
+FIXES:
+Fixed UnixTime (Done By KarimBenammar)
+Fixed JToken (Done By KarimBenammar)
+Fixed Base 64 Decode Padding (Done by Yommy)
+Fixed a bug on Content-Length auto generation when the response is empty (Done By Ruri)
+Fixed a bug on header value replacement.(Done By Ruri)
+Fixed another LS error on RSA.(Done By Ruri)
+Fixed LS error on RSA.(Done By Ruri)
+Request refactor.(Done By Ruri)
+Fixed parse arguments.(Done By Ruri)
+Etc (Read Official Commits)
