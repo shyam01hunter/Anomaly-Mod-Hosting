@@ -1,3 +1,5 @@
+-----Fixed issue with Byte Generation in Code_Verifier and Code_Challenge Blocks. Blocks should work as expected now.
+
 Fixed the bug where wordlist's wouldn't appear in Runner View. Please update by running Updater or downloading files.
 Version Number stays the same.
 
