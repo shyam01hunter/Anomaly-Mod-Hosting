@@ -1,6 +1,6 @@
-* Changelog: Version 1.4.3
-* Added wordlist searching in runner.
-* Added config searching in runner.
-* Reimplemented ocr block.
-* Reimplemneted blackchain-dns block.
-* A few other things I can't remember.
+Changelog: Version 1.4.4
+Disabled remove lines, gonna rework it USE REMOVE NOISE as finding the correct threshold will remove them!
+Fixed image being incorrectly rescaled when creating a nonindexed version for processing
+Reworked Remove Noise to attempt to refill in the hole left behind from noise removal in characters
+Quick fix to allow scraping from Proxyscrape, seems they've blacklisted the UA,
+made it simply randomize a bit. In the future I will add the ability to let the user customize a UA in settings.
