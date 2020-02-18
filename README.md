@@ -15,4 +15,5 @@ LethalLuck -Developer of Anomaly,
 Pure -Developer of Anomaly
 
 Information about updates, and more can be found on this discord. Join our community :D
-https://discord.gg/h4Ug5Uk
+OUR OLD SERVER WAS TAKEN DOWN. JOIN US HERE
+https://discord.gg/YkMVpGT
