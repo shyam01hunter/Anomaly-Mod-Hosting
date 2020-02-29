@@ -14,4 +14,4 @@ Demiurgo -Beta Tester and Contributor,
 LethalLuck -Developer of Anomaly, 
 Pure -Developer of Anomaly
 
-Due to Mass Reports the Server is now Private / Invite only. Thanks for understanding.
+The server is open for a bit. https://discord.gg/6DhAaSk
