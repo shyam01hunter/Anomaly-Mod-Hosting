@@ -14,4 +14,3 @@ Demiurgo -Beta Tester and Contributor,
 LethalLuck -Developer of Anomaly, 
 Pure -Developer of Anomaly
 
-The server is open for a bit. https://discord.gg/6DhAaSk
