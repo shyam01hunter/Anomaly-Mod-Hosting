@@ -1,4 +1,6 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I3XE8H)
+This Mod has gotten all the support it needs. Thank you. If you are interested in donating then please donate to Ruri. The creator of OB. His BTC Address is posted on his own github. https://github.com/openbullet/openbullet
+
+
 # OpenBullet-Anomaly-Mod
 
 This is the GitHub for the OpenBullet Mod, Anomaly (Formerly Paradox Mod).
