@@ -1,3 +1,5 @@
+The Standalone builds of Anomaly are now Obeselete. Anomaly is moving to using Official OB's Plugin System. 
+You can follow the process here https://discordapp.com/invite/jb8TFAF and here https://github.com/PurityWasHere/OpenBullet-Anomaly-Plugin
 Changelog: Version 1.4.4
 Disabled remove lines, gonna rework it USE REMOVE NOISE as finding the correct threshold will remove them!
 Fixed image being incorrectly rescaled when creating a nonindexed version for processing
